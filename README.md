@@ -45,24 +45,6 @@ stock_project/
 
 ## Setup & Installation
 
-
-stock_project/
-├── data/ # Cleaned and aggregated Parquet files
-│ ├── cleaned.parquet
-│ ├── agg1.parquet
-│ ├── agg2.parquet
-│ └── agg3.parquet
-├── scripts/
-│ ├── clean_data.py
-│ ├── aggregate.py
-│ ├── check_columns.py
-│ ├── dashboard.py
-│ ├── streamlit_app.py
-├── app.py # Streamlit dashboard
-├── requirements.txt # Python dependencies
-├── README.md # This file
-└── screenshots/ # Streamlit dashboard screenshots
-
 # 1. Clone the repository:
 
 ```bash

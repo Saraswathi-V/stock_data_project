@@ -26,7 +26,7 @@ This project demonstrates a full workflow for **stock market data analysis** usi
 ---
 
 ## Folder Structure
-'''
+```
 stock_project/
 ├── data/ # Cleaned and aggregated Parquet files
 │ ├── cleaned.parquet
@@ -43,7 +43,7 @@ stock_project/
 ├── requirements.txt # Python dependencies
 ├── README.md # This file
 └── screenshots/ # Streamlit dashboard screenshots
-'''
+```
 
 ## Setup & Installation
 

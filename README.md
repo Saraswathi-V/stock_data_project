@@ -3,6 +3,23 @@
 ## Project Overview
 This project demonstrates a full workflow for **stock market data analysis** using Python and Streamlit.  
 
+stock_project/
+├── data/ # Cleaned and aggregated Parquet files
+│ ├── cleaned.parquet
+│ ├── agg1.parquet
+│ ├── agg2.parquet
+│ └── agg3.parquet
+├── scripts/
+│ ├── clean_data.py
+│ ├── aggregate.py
+│ ├── check_columns.py
+│ ├── dashboard.py
+│ ├── streamlit_app.py
+├── app.py # Streamlit dashboard
+├── requirements.txt # Python dependencies
+├── README.md # This file
+└── screenshots/ # Streamlit dashboard screenshots
+
 **Workflow includes:**  
 1. **Data Cleaning**  
    - Load CSV into Pandas  

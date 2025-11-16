@@ -1,0 +1,9 @@
+Python 3.8 or higher
+
+pandas
+
+pyarrow
+
+streamlit
+
+altair
